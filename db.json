@@ -1,0 +1,25 @@
+{
+  "associacoesEsportivas": [
+    { "id": 1, "nome": "associacao01", "idPresidente": 1 },
+    { "id": 2, "nome": "associacao02", "idPresidente": 2 },
+    { "id": 3, "nome": "associacao03", "idPresidente": 3 }
+  ],
+
+  "equipes": [
+    { "id": 1, "nome": "equipe01", "idTecnico": 1, "idAssociacao": 1 },
+    { "id": 2, "nome": "equipe02", "idTecnico": 2, "idAssociacao": 2 },
+    { "id": 3, "nome": "equipe03", "idTecnico": 3, "idAssociacao": 3 }
+  ],
+
+  "torneios": [
+    { "id": 1, "nome": "torneio01", "formato": "mata-mata", "quantidadeEquipesMaxima": "16", "tamanhoMaximoElenco": "26" },
+    { "id": 2, "nome": "torneio02", "formato": "pontos corridos", "quantidadeEquipesMaxima": "8", "tamanhoMaximoElenco": "23" },
+    { "id": 3, "nome": "torneio03", "formato": "grupos", "quantidadeEquipesMaxima": "12", "tamanhoMaximoElenco": "25" }
+  ],
+
+  "edicoesTorneios": [
+    { "id": 1, "nomeEdicao": "edicao01", "dataInicio": "01012026", "dataFim": "31122026", "premiacao": "100", "returno": "0", "modalidade": "M", "idTorneio": 1 },
+    { "id": 2, "nomeEdicao": "edicao02", "dataInicio": "01012027", "dataFim": "31122027", "premiacao": "200", "returno": "1", "modalidade": "F", "idTorneio": 2 },
+    { "id": 3, "nomeEdicao": "edicao03", "dataInicio": "01012028", "dataFim": "31122028", "premiacao": "300", "returno": "0", "modalidade": "M", "idTorneio": 3 }
+  ]
+}

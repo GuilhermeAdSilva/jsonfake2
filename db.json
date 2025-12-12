@@ -18,8 +18,8 @@
   ],
 
   "edicoesTorneios": [
-    { "id": 1, "nomeEdicao": "edicao01", "dataInicio": "01012026", "dataFim": "31122026", "premiacao": "100", "returno": "0", "modalidade": "M", "idTorneio": 1 },
-    { "id": 2, "nomeEdicao": "edicao02", "dataInicio": "01012027", "dataFim": "31122027", "premiacao": "200", "returno": "1", "modalidade": "F", "idTorneio": 2 },
-    { "id": 3, "nomeEdicao": "edicao03", "dataInicio": "01012028", "dataFim": "31122028", "premiacao": "300", "returno": "0", "modalidade": "M", "idTorneio": 3 }
+    { "id": 1, "nomeEdicao": "edicao01", "dataInicio": "01012026", "dataFim": "31122026", "premiacao": "100", "returno": "0", "modalidade": "M", "idTorneio": 1 , "quantidadeEquipes": "0"},
+    { "id": 2, "nomeEdicao": "edicao02", "dataInicio": "01012027", "dataFim": "31122027", "premiacao": "200", "returno": "1", "modalidade": "F", "idTorneio": 2 , "quantidadeEquipes": "0"},
+    { "id": 3, "nomeEdicao": "edicao03", "dataInicio": "01012028", "dataFim": "31122028", "premiacao": "300", "returno": "0", "modalidade": "M", "idTorneio": 3 , "quantidadeEquipes": "0"}
   ]
 }
